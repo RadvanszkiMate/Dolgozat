@@ -1,2 +1,2 @@
-# Dolgozat
-dolgozat
+# Dolgozaz
+Radvánszki Máté
